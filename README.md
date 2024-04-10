@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [BUCS-RDMS](https://bucsrdms.com/)
 
-- 🌱 I’m currently learning **React, Codeigniter, Laravel**
+- 🌱 I’m currently learning **frameworks and lang**
 
 - 💬 Ask me about **kdramas will become friends**
 
