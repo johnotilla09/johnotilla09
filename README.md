@@ -1,3 +1,4 @@
+<img width="698" alt="johnotilla09.io" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/e/1/8/3/e1838ba5fafa720779567659fec8ded243cf3c7e.gif">
 <h1 align="center">Hi 👋, I'm John C. Otilla</h1>
 <h3 align="center">A passionate web developer, programmer and computer technician from Philippines</h3>
 
