@@ -1,7 +1,8 @@
 [![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/e/1/8/3/e1838ba5fafa720779567659fec8ded243cf3c7e.gif)](https://johnotilla09.io)
 <h1 align="center">Hi 👋, I'm John C. Otilla</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
+<img align="right" alt="Coding" width="400" src="[https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/e/1/8/3/e1838ba5fafa720779567659fec8ded243cf3c7e.gif](https://i.gifer.com/5eKX.gif)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnotilla09&label=Profile%20views&color=0e75b6&style=flat" alt="johnotilla09" /> </p>
 
